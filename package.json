@@ -1,7 +1,7 @@
 {
   "private": true,
   "name": "personal-portfolio",
-  "homepage": "http://github.com/bennylinn",
+  "homepage": ".",
   "version": "1.0.0",
   "scripts": {
     "build": "react-scripts build",
