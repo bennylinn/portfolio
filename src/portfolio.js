@@ -11,10 +11,10 @@ const settings = {
 const greeting = {
   title: "Hello!",
   title2: "Benny",
-  logo_name: "benny.l()",
+  logo_name: "benny.lin()",
   nickname: "benny / benny",
   full_name: "Benny Lin",
-  subTitle: "Frontend Developer, Data Visualization Enthusiast, Sciend Nerd.",
+  subTitle: "Frontend Developer, Data Visualization Enthusiast, Science Nerd.",
   resumeLink: "https://github.com/bennylinn",
   mail: "mailto:bennylin1995@gmail.com",
 };
@@ -212,8 +212,7 @@ const degrees = {
 };
 
 const certifications = {
-  certifications: [
-  ],
+  certifications: [],
 };
 
 // Experience Page
